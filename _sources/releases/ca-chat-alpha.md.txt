@@ -1,7 +1,7 @@
 # Vehicle Services: Chat App changelog - Alpha
 
 `````{warning}
-You are viewing the Alpha releases of the Chat Certified App.  
+You are viewing the Alpha releases of the Chat Certified App.
 `````
 
 ## 2.0.7
