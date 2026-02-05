@@ -9,7 +9,7 @@ This page contains the production releases of the Chat Certified App. You can fi
 </details>
 
 `````{note}
-If you wish to stay updated on new releases for Evam products, you may subscribe to the newsletter below.
+If you wish to stay updated on new releases for Evam products, you may subscribe to the newsletter below. 
 
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
