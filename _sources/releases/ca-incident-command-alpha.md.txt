@@ -1,0 +1,17 @@
+# Vehicle Services: Incident Command App changelog - Alpha
+
+`````{warning}
+You are viewing the Alpha releases of the Incident Command Certified App.
+`````
+
+## 1.1.5
+
+2025-08-15
+
+### Highlights
+
+* **Improved the overall performance of the app:** We improved the algorithm for synchronising features on the Command App map with the Vehicle Services navigation map. This results in less redraws on the Navigation map and lowers the CPU load on the system when there are many features to be displayed on the map for an incident.
+
+### Additional changes
+
+* **Fixed an issue where drawn features would not be removed:** In some cases, the drawings for an incident may have not been removed after demobilisation. This should now be fixed.

@@ -1,0 +1,35 @@
+# Central Services Mobile changelog - Alpha
+
+`````{warning}
+You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
+`````
+
+
+## 1.4.2
+
+2026-02-03
+
+### Highlights
+
+* **Improved the Chat app stability:** The Chat App was rewritten to be more robust and handle better loss of connection.
+* **Added more styling options to chat messages:** We have added support for sending and receiving messages with richer styling options such as bold and italics. 
+* **Improved the app performance and offline behavior:** The app performance has been significantly improved through the use of caching, which also adds that it is now possible to keep accessing the online data (turnout, info) that was previously viewed even if the device goes offline or with low connectivity
+* **Pager functionality for Android**: Implemented continuous location sharing to the CAD (as AVL data) on CS Android only based on current user status. 
+
+### Additional changes
+
+* **Fixed issue with message display:** Fixed an issue where the Chat App would display messages with new lines as a long single line instead, which made them harder to read
+* **Fixed an issue with missing data:** In previous versions, the app could fail at displaying the favourites apps in the bottom bar as well as the notification settings. This could be confusing to the user as it seemed like these were reset. This new version should fix this issue.
+
+## 1.4.1
+
+2025-12-29
+
+### Highlights
+
+* **Improved the offline and low-connection functionality:** The Mobile app now stores more data locally on the device to better handle the scenarios in which connectivity is suboptimal, the data is shown in its previous state until connectivity is back again.
+
+### Additional changes
+
+* **Fixed issue with favourite apps and notification settings not showing correctly:** The previous versions had an issue where the favourite apps and notification settings would not show until the app was restarted, which could lead the user to think they were reset. This is now fixed.
+* **Stability and performance improvements:** The general stability and performance of the app was improved.

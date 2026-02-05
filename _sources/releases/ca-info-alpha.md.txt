@@ -1,0 +1,17 @@
+# Vehicle Services: Info App changelog - Alpha
+
+`````{warning}
+You are viewing the Alpha releases of the Info Certified App.
+`````
+
+## 1.0.7
+
+2025-08-06
+
+### Highlights
+
+* **Improved the overall navigation within the app:** The navigation in the Info CA was reworked to be more natural and less rigid: going back from an info card now brings you back to where you were before instead of always in the "All info" page. Going back from an info card that you found while searching with the search box brings you back to the search view with your search term written in.
+
+### Additional changes
+
+* **Fixed issue with back button in Info viewing page:** Going back from an info card now brings you back to the page you were into, instead of always the first one.

@@ -1,0 +1,23 @@
+# COMS Configuration Tool changelog
+
+<details>
+
+<summary>Here are the Production releases for the <a href="https://www.coms-configuration-tool.portal.evam.life/">COMS Configuration Tool</a>.</summary>
+
+This page contains the production releases of the COMS Configuration Tool. You can find the Alpha releases <a href="config-tool-coms-alpha.html">here</a>.
+
+</details>
+
+`````{note}
+If you wish to stay updated on new releases for Evam products, you may subscribe to the newsletter below.
+
+<a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
+`````
+
+## 1.1.5
+
+2025-05-20
+
+### Highlights
+
+* **Added the option to automatically open the app upon accepting a Phone or TETRA call:** It is now possible to configure COMS to automatically open upon accepting a Phone call, a TETRA call, or both. You can configure this in the General Tab.

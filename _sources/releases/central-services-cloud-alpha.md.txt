@@ -1,0 +1,27 @@
+# Central Services Cloud changelog - Alpha
+
+`````{warning}
+You are viewing the Alpha releases of Central Services Cloud.
+`````
+
+## 3.7.1 RC2
+
+2026-01-29
+
+### Highlights
+
+* **Pager functionality backend support**: Added the server-side support for receiving position updates from Central Services mobile and forwarding them to the CAD as AVL data.
+* **Added support for formatting GD92 Text messages:** GD92 Text messages that are sent by the CAD can now include line breaks and these will be rendered correctly.
+
+## 3.7.0 RC1
+
+2025-12-11
+
+### Highlights
+
+* **Cleaned up the application structure:** The Central Services Web app was reworked to be more robust, the breadcrumb system was notably cleaned up to be more visually consistent.
+
+### Additional changes
+
+* **Fixed an issue with PDF viewing in the Info App:** Viewing PDFs inside the Info App could sometimes have visual glitches if the page was reloaded while viewing the PDF. This should now be fixed.
+

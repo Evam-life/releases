@@ -1,0 +1,32 @@
+# Vehicle Services: COMS App changelog
+
+<details>
+
+<summary>Here are the Production releases for the Communication Suite (COMS) Certified App, a part of the Vehicle Services platform.</summary>
+
+This page contains the production releases of the COMS Certified App. You can find the Alpha releases <a href="ca-coms-alpha.html">here</a>.
+
+</details>
+
+`````{note}
+If you wish to stay updated on new releases for Evam products, you may subscribe to the newsletter below.
+
+<a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
+`````
+
+## 1.3.2
+
+2025-05-21
+
+### Highlights
+
+* **Fixed an issue with PTT when using a Motorola radio:** A bug was introduced in the previous version that could lead to the PTT signal being held on after answering an incoming Simplex call when using a Motorola radio, it should now be fixed.
+
+## 1.3.0
+
+2025-05-20
+
+### Highlights
+
+* **Added the option to automatically open the app upon accepting a Phone or TETRA call:** It is now possible to configure COMS to automatically open upon accepting a Phone call, a TETRA call, or both. The behavior can be customized as usual through the [COMS Configuration Tool](https://www.coms-configuration-tool.portal.evam.life/).
+

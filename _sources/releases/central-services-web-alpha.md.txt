@@ -1,0 +1,33 @@
+# Central Services Web changelog - Alpha
+
+`````{warning}
+You are viewing the Alpha releases of Central Services Web.
+`````
+
+## 3.7.1 RC2
+
+2026-01-29
+
+### Highlights
+
+* **Improved the Chat app stability:** The Chat App was rewritten to be more robust and handle better loss of connection.
+* **Added more styling options to chat messages:** We have added support for sending and receiving messages with richer styling options such as bold and italics in the Chat App.
+
+### Additional changes
+
+* **Added text showing when there are no incidents in the Incident Command app:** You will now see a text saying "No incident available" when there is none in the Incident Command app.
+* **Fixed issue with message display:** Fixed an issue where the Chat App would display messages with new lines as a long single line instead, which made them harder to read
+
+
+## 3.7.0 RC1
+
+2025-12-11
+
+### Highlights
+
+* **Cleaned up the application structure:** The Central Services Web app was reworked to be more robust, the breadcrumb system was notably cleaned up to be more visually consistent.
+
+### Additional changes
+
+* **Fixed an issue with PDF viewing in the Info App:** Viewing PDFs inside the Info App could sometimes have visual glitches if the page was reloaded while viewing the PDF. This should now be fixed.
+

@@ -1,0 +1,27 @@
+# Vehicle Services: Info App changelog
+
+<details>
+
+<summary>Here are the Production releases for the Info Certified App, a part of the Vehicle Services platform.</summary>
+
+This page contains the production releases of the Info Certified App. You can find the Alpha releases <a href="ca-info-alpha.html">here</a>.
+
+</details>
+
+`````{note}
+If you wish to stay updated on new releases for Evam products, you may subscribe to the newsletter below.
+
+<a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
+`````
+
+## 1.0.7
+
+2025-11-13
+
+### Highlights
+
+* **Improved the overall navigation within the app:** The navigation in the Info CA was reworked to be more natural and less rigid: going back from an info card now brings you back to where you were before instead of always in the "All info" page. Going back from an info card that you found while searching with the search box brings you back to the search view with your search term written in.
+
+### Additional changes
+
+* **Fixed issue with back button in Info viewing page:** Going back from an info card now brings you back to the page you were into, instead of always the first one.

@@ -1,0 +1,24 @@
+.. Evam developer documentation documentation master file, created by
+   sphinx-quickstart on Fri Jul 29 10:15:07 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Support
+=======
+
+Contents
+--------
+
+This is a list of all articles in the documentation.
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   
+   releases/vehicle-services-stable
+
+   releases/central-services-mobile-stable
+   releases/central-services-web-stable
+   releases/central-services-cloud-stable
+   releases/ca-*-stable
+   releases/config-tool-*-stable

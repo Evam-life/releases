@@ -1,0 +1,61 @@
+# Vehicle Services: Chat App changelog - Alpha
+
+`````{warning}
+You are viewing the Alpha releases of the Chat Certified App.
+`````
+
+## 2.0.7
+
+2025-12-18
+
+### Highlights
+
+* **Improved the Chat app stability:** A bug was fixed where messages could fail to display properly.
+* **Added more styling options to chat messages:** We have added support for sending and receiving messages with richer styling options such as bold and italics. Messages including several lines will also now render correctly.
+
+## 2.0.6
+
+2025-12-10
+
+### Highlights
+
+* **Fixed a bug where the Chat App would have stability issues for newly created users:** Previous versions had a bug where newly created users would encounter stability issues when using the app, this should now be fixed.
+
+## 2.0.5
+
+2025-11-15
+
+### Highlights
+
+* **Fixed a bug where notification of new messages may not be sent:** Previous versions had a bug where the notification of new messages would not always show if the message was received shortly after ACK'ing a new incident, this should now be fixed.
+
+## 2.0.4
+
+2025-11-14
+
+### Highlights
+
+* **Improved the robustness of the application connection handling:** The app should now handle connection loss better and reconnect more reliably to the chat server upon connectivity restoration.
+* **Fixed a bug where notification of new messages may not be sent:** Previous versions had a bug where the notification of new messages would not always show until the app was restarted, this should now be fixed.
+
+
+## 2.0.3
+
+2025-11-07
+
+### Highlights
+
+* **Improved the robustness of the Chat application's ability to display incident chat groups:** The Central Services backend now handles better the rare cases in which the creation of an incident chat group might be delayed. In the past, such an event could lead to the incident chat group not showing properly in the Chat Certified App until Vehicle Services was restarted. Now, the incident chat group should always show in this case thanks to the changes made in Central Services Cloud 3.6.0.
+
+## 2.0.2
+
+2025-10-29
+
+### Highlights
+
+* **Fixed an issue where messages could show in the wrong chat group:** An issue was patched where chat messages from the Control Room could show in the incident chat group in some rare cases.
+
+### Additional changes
+
+* **Fixed a bug where the Chat App CA would consume too much CPU:** Fixed a bug where the Chat App could consume too much CPU if there were several incident chat groups available.
+

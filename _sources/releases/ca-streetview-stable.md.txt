@@ -1,0 +1,23 @@
+# Vehicle Services: Street View App changelog
+
+<details>
+
+<summary>Here are the Production releases for the Street View Certified App, a part of the Vehicle Services platform.</summary>
+
+This page contains the production releases of the Street View Certified App. You can find the Alpha releases <a href="ca-streetview-alpha.html">here</a>.
+
+</details>
+
+`````{note}
+If you wish to stay updated on new releases for Evam products, you may subscribe to the newsletter below.
+
+<a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
+`````
+
+## 1.0.4
+
+2024-02-20
+
+### Highlights
+
+* **The app now handles the case where there is no imagery available:** In the previous versions, the app would show an error if the incident location did not have any imagery available from Google Street View. It will now display an information screen instead.

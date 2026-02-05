@@ -1,0 +1,13 @@
+# Vehicle Services: Street View App changelog - Alpha
+
+`````{warning}
+You are viewing the Alpha releases of the Street View Certified App.
+`````
+
+## 1.0.4
+
+2024-02-20
+
+### Highlights
+
+* **The app now handles the case where there is no imagery available:** In the previous versions, the app would show an error if the incident location did not have any imagery available from Google Street View. It will now display an information screen instead.

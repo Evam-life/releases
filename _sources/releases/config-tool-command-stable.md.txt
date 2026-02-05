@@ -1,0 +1,33 @@
+# Incident Command Configuration Tool changelog
+
+<details>
+
+<summary>Here are the Production releases for the <a href="https://www.incident-command-configuration-tool.portal.evam.life/">Incident Command Configuration Tool</a>.</summary>
+
+This page contains the production releases of the Incident Command Configuration Tool. You can find the Alpha releases <a href="config-tool-command-alpha.html">here</a>.
+
+</details>
+
+`````{note}
+If you wish to stay updated on new releases for Evam products, you may subscribe to the newsletter below.
+
+<a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
+`````
+
+## 1.0.0
+
+2025-06-04
+
+### Highlights
+
+* **Added the option to select between metric and imperial units:** It is now possible to decide which unit system is used within the Incident Command apps in Vehicle Services and Central Services.
+* **Added a setting to define a custom unit within the app:** It is now possible to define a custom unit alongside its conversion rate to meters, this can be typically used for region-specific units such as Hose Lengths (25m).
+
+## 0.9.0
+
+2025-05-08
+
+### Highlights
+
+* **Initial release:** This is the initial release of this tool, bringing support for the base functionality: library management for markers and cordons, custom naming and grouping.
+

@@ -1,0 +1,30 @@
+# Vehicle Services: COMS App changelog - Alpha
+
+`````{warning}
+You are viewing the Alpha releases of the COMS Certified App.
+`````
+
+## 1.4.0
+
+2026-01-29
+
+### Highlights
+
+* **The app can now open automatically and show the Keypad page upon receiving a TETRA or Phone call:** When using the setting introduced in 1.3.0, COMS will now automatically open and display the keypad page upon receiving a call.
+
+## 1.3.2
+
+2025-05-21
+
+### Highlights
+
+* **Fixed an issue with PTT when using a Motorola radio:** A bug was introduced in the previous version that could lead to the PTT signal being held on after answering an incoming Simplex call when using a Motorola radio, it should now be fixed.
+
+## 1.3.0
+
+2025-05-20
+
+### Highlights
+
+* **Added a setting to automatically open the app upon accepting a Phone or TETRA call:** It is now possible to configure COMS to automatically open upon accepting a Phone call, a TETRA call, or both. The behavior can be customized as usual through the [COMS Configuration Tool](https://www.coms-configuration-tool.portal.evam.life/).
+

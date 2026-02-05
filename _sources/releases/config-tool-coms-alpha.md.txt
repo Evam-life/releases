@@ -1,0 +1,13 @@
+# COMS Configuration Tool changelog - Alpha
+
+`````{warning}
+You are viewing the Alpha releases of the COMS Configuration Tool.
+`````
+
+## 1.1.5
+
+2025-05-20
+
+### Highlights
+
+* **Added the option to automatically open the app upon accepting a Phone or TETRA call:** It is now possible to configure COMS to automatically open upon accepting a Phone call, a TETRA call, or both. You can configure this in the General Tab.
