@@ -4,6 +4,18 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 3.8.0 RC1
+
+2026-02-06
+
+### Highlights
+
+* **Added support for call sign folders:** Call signs will now be listed showing how they are grouped by folder name, in a similar fashion as what is done in Vehicle Services.
+
+### Additional changes
+
+* **Added additional logs to the application:** We have added extra logs to better help you in case of question or support request.
+
 ## 3.7.1 RC2
 
 2026-01-29

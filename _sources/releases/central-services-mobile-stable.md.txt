@@ -24,6 +24,7 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 * **Added more styling options to chat messages:** We have added support for sending and receiving messages with richer styling options such as bold and italics. 
 * **Improved the app performance and offline behavior:** The app performance has been significantly improved through the use of caching, which also adds that it is now possible to keep accessing the online data (turnout, info) that was previously viewed even if the device goes offline or with low connectivity
 * **Pager functionality for Android**: Implemented continuous location sharing to the CAD (as AVL data) on CS Android only based on current user status. 
+* **Added one more favorite app to the bottom bar in CS mobile:** User now can select up to 3 favorite apps to show in the bottom bar
 
 ### Additional changes
 

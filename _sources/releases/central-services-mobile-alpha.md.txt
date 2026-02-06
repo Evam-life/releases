@@ -4,8 +4,19 @@
 You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 `````
 
+## 1.5.0 RC1
 
-## 1.4.2
+2026-02-06
+
+### Highlights
+
+* **Added support for call sign folders:** Call signs will now be listed showing how they are grouped by folder name, in a similar fashion as what is done in Vehicle Services.
+
+### Additional changes
+
+* **Added additional logs to the application:** We have added extra logs to better help you in case of question or support request.
+
+## 1.4.2 RC1
 
 2026-02-03
 
@@ -21,7 +32,7 @@ You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 * **Fixed issue with message display:** Fixed an issue where the Chat App would display messages with new lines as a long single line instead, which made them harder to read
 * **Fixed an issue with missing data:** In previous versions, the app could fail at displaying the favourites apps in the bottom bar as well as the notification settings. This could be confusing to the user as it seemed like these were reset. This new version should fix this issue.
 
-## 1.4.1
+## 1.4.1 RC1
 
 2025-12-29
 

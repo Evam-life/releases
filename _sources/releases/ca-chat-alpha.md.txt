@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the Chat Certified App.
 `````
 
+## 2.0.8
+
+2026-02-06
+
+### Highlights
+
+* **Added additional logs to the application:** We have added extra logs to better help you in case of question or support request.
+
 ## 2.0.7
 
 2025-12-18
