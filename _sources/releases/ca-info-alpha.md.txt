@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the Info Certified App.
 `````
 
+## 1.0.8
+
+2026-02-16
+
+### Highlights
+
+* **Updated the application text for clarity:** Changed the "current" tab to "temporary" for English users based on your feedback.
+
 ## 1.0.7
 
 2025-08-06
