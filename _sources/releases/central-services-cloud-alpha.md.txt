@@ -4,6 +4,15 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 3.8.0 RC2
+
+2026-02-16
+
+### Highlights
+
+* **Improved logging of communication with the CAD:** Now we make sure all logs for communication between CS and the CAD arrive in Sentry.
+
+
 ## 3.7.1 RC2
 
 2026-01-29
