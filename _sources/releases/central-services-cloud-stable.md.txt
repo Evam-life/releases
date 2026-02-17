@@ -14,6 +14,15 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 3.8.0
+
+2026-02-17
+
+### Highlights
+
+* **Improved logging of communication with the CAD:** Resolved an issue where logs from messages sent to the CAD occasionally could be missed and affect our support response times.
+
+
 ## 3.7.1
 
 2026-02-03
