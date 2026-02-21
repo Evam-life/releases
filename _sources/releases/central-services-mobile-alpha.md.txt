@@ -4,6 +4,20 @@
 You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 `````
 
+## 1.5.0 RC2
+
+2026-02-20
+
+### Highlights
+
+* **Better Info App translation:** "Current" tab was changed to "Temporary"
+* **Improved handling of call sign change:** Fixed an issue when changing a call sign will ot result in the call sign being changed when sending messages in the Chat App.
+
+### Additional changes
+
+* **Removed logging in Sentry:** Removed logging in Sentry to remove the performance drop.
+
+
 ## 1.5.0 RC1
 
 2026-02-06
