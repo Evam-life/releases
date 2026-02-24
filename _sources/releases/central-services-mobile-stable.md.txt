@@ -14,6 +14,19 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 1.5.0
+
+2026-02-24
+
+### Highlights
+
+* **Better Info App translation:** "Current" tab was changed to "Temporary"
+* **The call sign folder structure is now visible in the call sign list:** When choosing a call sign, you'll be able to view and search the call signs by folder.
+
+### Additional changes
+
+* **Chat app improvements:** The Chat App has been improved to better handle call sign changes.
+
 ## 1.4.2
 
 2026-02-03
