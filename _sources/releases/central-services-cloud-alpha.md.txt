@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 3.8.1 RC1
+
+2026-02-27
+
+### Highlights
+
+* **Added the required backend to fix the Mobile app issue with double notification:** We recently fixed an issue where Central Services would receive double Push notifications, and this new release of Central Services Cloud adds support to enable this fix.
+
 ## 3.8.0 RC2
 
 2026-02-16
@@ -11,7 +19,6 @@ You are viewing the Alpha releases of Central Services Cloud.
 ### Highlights
 
 * **Improved logging of communication with the CAD:** Now we make sure all logs for communication between CS and the CAD arrive in Sentry.
-
 
 ## 3.7.1 RC2
 
