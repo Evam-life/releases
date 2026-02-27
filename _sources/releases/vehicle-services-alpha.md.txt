@@ -4,6 +4,20 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.0.10 RC1
+
+2026-02-27
+
+### Highlights
+
+* **Improvements for apps in Vehicle Services:** Apps will now be able to detect when they are visible, giving more flexibility to developers.
+* **Improved robustness of Vehicle Services:** We fixed an issue where the service we use to ensure Vehicle Services stays running despite system updates could, in some cases, not be able to bring back Vehicle Services. This should improve the general app stability.
+
+### Additional changes
+
+* **Better logging of navigation positioning events:** We have added some additional logs to support you better in the event of GPS positioning issues.
+
+
 ## 7.0.9 RC3
 
 2026-01-08
