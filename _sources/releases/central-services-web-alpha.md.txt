@@ -3,6 +3,15 @@
 `````{warning}
 You are viewing the Alpha releases of Central Services Web.
 `````
+
+## 3.8.2 RC1
+
+2026-02-27
+
+### Highlights
+
+* **Improved map experience:** Fixed an issue on web, where the map on the main page and on the incident page will show as just blue.
+
 ## 3.8.1 RC1
 
 2026-02-20
