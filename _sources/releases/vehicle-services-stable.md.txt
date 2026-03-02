@@ -14,6 +14,21 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+
+## 7.0.10
+
+2026-03-02
+
+### Highlights
+
+* **Improvements for apps in Vehicle Services:** Apps will now be able to detect when they are visible, giving more flexibility to developers.
+* **Improved robustness of Vehicle Services:** We fixed an issue where the service we use to ensure Vehicle Services stays running despite system updates could, in some cases, not be able to bring back Vehicle Services. This should improve the general app stability.
+
+### Additional changes
+
+* **Better logging of navigation positioning events:** We have added some additional logs to support you better in the event of GPS positioning issues.
+
+
 ## 7.0.9
 
 2026-01-12
