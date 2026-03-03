@@ -4,6 +4,15 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 3.8.2 RC2
+
+2026-02-27
+
+### Highlights
+
+* **Fixed map not showing properly in the web portal** After allowing location permission, the map now displays your position correctly
+* **Improved map behavior when sending status:** The map no longer reloads and looks broken when you send a status
+
 ## 3.8.2 RC1
 
 2026-02-27
