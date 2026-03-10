@@ -14,6 +14,16 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 3.8.2
+
+2026-03-09
+
+### Highlights
+
+* **Improved map experience:** Fixed an issue on web, where the map on the main and incident page could appear completely blue.
+* **Fixed map not showing properly in the web portal** After allowing location permission, the map now displays your position correctly
+* **Improved map behavior when sending status:** The map no longer reloads and appears broken when sending a status.
+
 ## 3.8.1
 
 2026-02-24

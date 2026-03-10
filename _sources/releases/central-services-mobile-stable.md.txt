@@ -14,6 +14,22 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 1.5.1
+
+2026-03-09
+
+### Highlights
+
+* **Improved map:** Fixed an issue where the map on the home page and incident page would sometimes be blue.
+* **Better handling of permissions:** Fixed a bug where the user would not be alerted properly if they didn't have the correct permissions.
+* **Fixed map not showing properly** After allowing location permission, the map now displays your position correctly
+* **Improved map behavior when sending status:** The map no longer reloads and looks broken when you send a status
+
+### Additional changes
+
+* **Improved UI:** Fixed an issue in the call-sign folder selection where the search bar could appear too large for the screen.
+* **Fixed notifications:** Fixed an issue where when a user logs out then back in as another user, they would receive double notifications.
+
 ## 1.5.0
 
 2026-02-24

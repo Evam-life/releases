@@ -14,6 +14,15 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 3.8.2
+
+2026-03-09
+
+### Highlights
+
+* **Added new settings for tuning the turnout presentation for TETRA user:** We have added new settings to support the customization of the turnout for TETRA users in a future release of Vehicle Services.
+
+
 ## 3.8.0
 
 2026-02-17

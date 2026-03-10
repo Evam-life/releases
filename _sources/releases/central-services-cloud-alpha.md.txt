@@ -6,13 +6,13 @@ You are viewing the Alpha releases of Central Services Cloud.
 
 ## 3.8.2 RC2
 
-2026-02-27
+2026-03-03
 
 ### Highlights
 
 * **Added new settings for tuning the turnout presentation for TETRA user:** We have added new settings to support the customization of the turnout for TETRA users in a future release of Vehicle Services.
 
-## 3.8.1 RC1
+## 3.8.2 RC1
 
 2026-02-27
 
