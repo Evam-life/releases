@@ -13,6 +13,18 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
+## 1.5.1
+
+2026-03-16
+
+### Highlights
+
+* **Shows "No caller ID" when caller information is missing:** Users will now see “No caller ID” during calls when caller information is unavailable.
+* **COMS icon now appears correctly in notifications:** The correct icon displays in notifications instead of a grey square, so users can recognize the app more easily.
+
+### Additional changes
+
+* **Back button is easier to use:** The touch area for the back button has been increased and made more consistent, making navigation safer and easier.
 
 ## 1.3.2
 
