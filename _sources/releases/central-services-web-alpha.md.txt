@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 3.8.3 RC1
+
+2026-03-17
+
+### Highlights
+
+* **Code quality improvements:** Applied Prettier to all code, will now run checks for typescript, eslint and prettier in pipelines.
+
 ## 3.8.2 RC2
 
 2026-03-03

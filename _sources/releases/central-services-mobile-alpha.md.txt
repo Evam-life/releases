@@ -4,6 +4,16 @@
 You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 `````
 
+## 1.5.2 RC1
+
+2026-03-17
+
+### Highlights
+
+* **Code quality improvements:** Applied Prettier to all code, will now run checks for typescript, eslint and prettier in pipelines.
+* **Removed skip button from onboarding:** If customers skipped a permission check on IOS first time, they would not be able to enable it later.
+* **No more double notifications:** On IOS, each notification would be shown twice; one as critical, one normal. This has been fixed.
+
 ## 1.5.1 RC2
 
 2026-03-03
