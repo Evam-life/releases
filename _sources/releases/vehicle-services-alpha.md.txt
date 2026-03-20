@@ -4,6 +4,15 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.0.11 RC1
+
+2026-03-20
+
+### Highlights
+
+* **Improved navigation accuracy by using the best entry point for addresses:** The navigation system has been updated to guide users to the correct access point, such as a driveway or entrance, rather than the center or nearby street. This change helps reduce confusion, speeds up arrivals, and ensures users end up at the intended location
+* **Resolved an issue where incident information was not being received on all screens in setups with multiple displays:** Now, when an incident is sent, it reliably appears for the intended receiver, ensuring no important details are missed
+
 ## 7.0.10 RC1
 
 2026-02-27
