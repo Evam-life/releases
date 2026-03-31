@@ -14,6 +14,14 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 7.0.11
+
+2026-03-30
+
+### Highlights
+
+* **Improved navigation accuracy by using the best entry point for addresses:** Navigation now guides users to the most relevant access point, such as an entrance or driveway, instead of the center or nearby street. This helps reduce confusion, speed up arrivals and ensure responders reach the intended location.
+* **Resolved an issue where incident information was not received on all screens in multi-display setups:** Incidents now appear reliably on all intended screen, ensuring no important details are missed.
 
 ## 7.0.10
 
