@@ -4,6 +4,15 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 4.0.0 RC1
+
+2026-04-10
+
+### Highlights
+
+* **A warning banner appears when a user attempts to change status without a callsign:** The app informs users that a callsign must be selected before updating status.
+* **The status selection menu has an updated design:** The app presents a clearer and more user-friendly way to choose a status.
+
 ## 3.8.3 RC1
 
 2026-03-17

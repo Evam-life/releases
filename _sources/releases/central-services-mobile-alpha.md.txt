@@ -4,6 +4,19 @@
 You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 `````
 
+## 2.0.0 RC1
+
+2026-04-10
+
+### Highlights
+
+* **You can now see and change your current status and callsign in the top bar:** This makes it easier for users to stay informed and in control of their status and vehicle assignment. By clicking the new buttons, the user can at any time or place in the app change their callsign or status.
+
+### Additional changes
+
+* **A warning banner appears when a user attempts to change status without a callsign:** The app informs users that a callsign must be selected before updating status.
+* **The status selection menu has an updated design:** The app presents a clearer and more user-friendly way to choose a status.
+
 ## 1.5.2 RC1
 
 2026-03-17
