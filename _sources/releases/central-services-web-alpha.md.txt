@@ -4,6 +4,17 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 4.0.0 RC3
+
+2026-04-15
+
+### Highlights
+
+* **Easier to manage incidents in CS web:** You can now accept or dismiss an incident directly from the incident view
+* **Better visual design:** Labels for incident status (active, pending, dismissed) and list items have been updated for a clearer and more consistent look, making information easier to understand
+* **Customizable options for organizations:** Organizations can now choose to hide the dismiss button if they prefer
+* **Templated headings and subheadings:** The main titles and descriptions for incidents can now be customized via settings to better match organizational workflows and needs.
+
 ## 4.0.0 RC1
 
 2026-04-10
