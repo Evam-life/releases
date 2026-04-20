@@ -14,6 +14,15 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 7.0.12
+
+2026-04-20
+
+### Highlights
+
+* **Fixed an issue causing unexpected app crashes:** We identified and resolved a problem that was leading the app to close unexpectedly on various devices and versions, improving stability for all users
+
+
 ## 7.0.11
 
 2026-03-30
