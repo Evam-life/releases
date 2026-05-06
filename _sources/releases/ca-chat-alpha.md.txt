@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the Chat Certified App.
 `````
 
+## 2.0.9
+
+2026-05-06
+
+### Highlights
+
+* **Admins can participate in incident communication:** Admin users can send and receive chat messages and updates for all incidents, even without a callsign if permission is given. Admins are clearly identified by their name or email in chats
+
 ## 2.0.8
 
 2026-02-06

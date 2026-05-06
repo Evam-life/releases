@@ -4,6 +4,21 @@
 You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 `````
 
+## 2.1.0 RC1
+
+2026-05-06
+
+### Highlights
+
+* **Added a whole new app - Closures:** Users can now add and view road restrictions, such as closures and blockages. These blockages will be visible in Vehicle Services' Navigation app and Vehicle Services will avoid routing the user through them, making navigation more reliable and keeping you in control.
+* **Expanded the incident management options for Admin users:** Administrators in the system now have an overview of every active incident, improving oversight and response coordination. They can see incident details, turnout, as well as participate in the associated incident chat groups and incident command functions.
+
+### Additional changes
+
+* **Newest items always appear at the top:** The lists in chat and command apps now show the most recent items first, making it easier to stay up to date
+* **Cleaner mobile document viewing:** The issue with having two back buttons when viewing PDFs on mobile devices has been fixed
+
+
 ## 2.0.0 RC3
 
 2026-04-15
