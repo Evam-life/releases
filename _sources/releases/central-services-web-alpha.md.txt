@@ -4,6 +4,15 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 4.1.0 RC2
+
+2026-05-07
+
+### Highlights
+
+* **Improved message alignment for admins in chat:** Fixed an issue where messages sent by admins without a callsign might not appear on the correct side of the chat, causing confusion when more than one admin is present. Now, your sent messages will consistently appear opposite from others as expected
+
+
 ## 4.1.0 RC1
 
 2026-05-06
