@@ -14,6 +14,19 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 4.1.0
+
+2026-05-11
+
+### Highlights
+
+* **Added the new Closures app:** Users can now add, view and edit road restrictions, such as closures and blockages. These restrictions are visible in Vehicle Services' Navigation app and routes will automatically avoid affected areas to improve routing reliability and situational awareness.
+* **Expanded incident management options for Admin users:** Administrators can now view all active incidents for improved oversight and response coordination. They can see incident details, turnout, as well as participate in the associated incident chat groups and incident command functions.
+
+### Additional changes
+
+* **Fixed default configuration for incident subheading:** Incident subheadings in the incidents list and incident details will be as intended without additional configuration changes.
+
 ## 3.8.2
 
 2026-03-09

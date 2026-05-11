@@ -14,6 +14,15 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 2.0.10
+
+2026-05-11
+
+### Highlights
+
+* **Admins can participate in incident communication:** Admin users can send and receive chat messages and updates for all incidents, even without a callsign if permission is given. Admins are clearly identified by their name or email in chats
+
+
 ## 2.0.8
 
 2026-02-09
