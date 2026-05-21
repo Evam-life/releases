@@ -3,6 +3,18 @@
 `````{warning}
 You are viewing the Alpha releases of Central Services Cloud.
 `````
+## 4.2.0 RC1
+
+2026-05-21
+
+### Highlights
+
+* **Fixed a rare issue with group permissions update:** The Admin app could, under some conditions, reject an app permission update for a user group with the reason that not enough licenses were available, despite the fact enough licenses were available. This is now fixed.
+
+### Additional changes
+
+* **Added more detailed logs to improve error monitoring:** New logs were included to help identify and diagnose issues more easily in the future
+* **General security and performance improvements:** Ongoing enhancements were made to keep the system safe and efficient
 
 ## 4.1.0 RC1
 

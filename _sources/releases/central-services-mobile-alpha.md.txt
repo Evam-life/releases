@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 `````
 
+## 2.2.0 RC1
+
+2026-05-21
+
+### Highlights
+
+* **General security and performance improvements:** Ongoing enhancements were made to keep the system safe and efficient
+
 ## 2.1.0 RC2
 
 2026-05-07
