@@ -14,6 +14,18 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 7.0.14
+
+2026-05-26
+
+### Highlights
+
+* **Fixed hospital location-based status change recommendations:** Users will now receive status suggestions when arriving at or leaving a hospital, as intended
+
+### Additional changes
+
+* **General security and performance improvements:** Ongoing improvements have been made to enhance system security, stability, and performance.
+
 ## 7.0.13
 
 2026-05-11
