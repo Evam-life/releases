@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.0.15 RC1
+
+2026-05-29
+
+### Highlights
+
+* **Fixed an issue where the keep-alive service might not start reliably:** The app now ensures that the keep-alive service is always enabled when needed, making the experience more stable for users.
+
 ## 7.0.14 RC1
 
 2026-05-21

@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 4.3.0 RC1
+
+2026-05-29
+
+### Highlights
+
+* **Improved system monitoring and reporting for better support:** Added enhanced logging to help support teams diagnose and resolve common problems more quickly.
+
 ## 4.2.0 RC1
 
 2026-05-21

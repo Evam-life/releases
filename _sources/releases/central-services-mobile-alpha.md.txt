@@ -4,6 +4,20 @@
 You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 `````
 
+## 2.3.0 RC1
+
+2026-05-29
+
+### Highlights
+
+* **Fixed an issue where tapping an incident notification did not show incident details:** Now, tapping a notification will display the correct incident information instead of just the list.
+* **Fixed an issue where opening a new message notification did not show the chat group:** Now, when you tap a new message notification, you are taken directly to the conversation, even after closing the app.
+* **Improved notifications for images sent by administrators:** The app now displays the sender's name instead of their email address in notifications for images sent by administrators without a callsign.
+
+### Additional changes
+
+* **Improved system monitoring and reporting for better support:** Added enhanced logging to help support teams diagnose and resolve common problems more quickly.
+
 ## 2.2.0 RC1
 
 2026-05-21

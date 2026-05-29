@@ -3,6 +3,15 @@
 `````{warning}
 You are viewing the Alpha releases of Central Services Cloud.
 `````
+
+## 4.3.0 RC1
+
+2026-05-29
+
+### Highlights
+
+* **Improved notifications for images sent by administrators:** The app now displays the sender's name instead of their email address in notifications for images sent by administrators without a callsign.
+
 ## 4.2.0 RC1
 
 2026-05-21
