@@ -14,6 +14,21 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 2.3.0
+
+2026-06-01
+
+### Highlights
+
+* **Fixed an issue where tapping an incident notification did not show incident details:**  Tapping an incident notification now opens the correct incident details instead of the incident list.
+* **Fixed an issue where opening a new message notification did not show the chat group:** Tapping a message notification now takes users directly to the conversation, even after the app has been closed.
+* **Improved notifications for images sent by administrators:** Notifications for images sent by administrators without a callsign now display the sender's name instead of their email address.
+
+### Additional changes
+
+* **Improved system monitoring and reporting for better support:** Added enhanced logging to help support teams diagnose and resolve common problems more quickly.
+
+
 ## 2.2.0
 
 2026-05-26

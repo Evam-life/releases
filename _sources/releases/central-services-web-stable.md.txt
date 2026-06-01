@@ -14,6 +14,14 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 4.3.0
+
+2026-06-01
+
+### Highlights
+
+* **Improved system monitoring and reporting for better support:** Added enhanced logging to help support teams diagnose and resolve common problems more quickly.
+
 ## 4.2.0
 
 2026-05-26
