@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.0.16 RC1
+
+2026-06-05
+
+### Highlights
+
+* **Resolved a memory leak that could cause performance issues in the field:** Memory usage in Vehicle Services has been improved to avoid slowdowns, especially for Rakel users. Some causes of excessive memory usage were fixed, making the app more stable and reliable for users
+
 ## 7.0.15 RC1
 
 2026-05-29

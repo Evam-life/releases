@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 4.4.0 RC1
+
+2026-06-05
+
+### Highlights
+
+* **Developed a bridge to connect cloud services with legacy systems:** A solution was built to ensure reliable, secure communication between cloud and on-premise systems, supporting essential functions like mobilising, updating status, and ending incidents
+
 ## 4.3.0 RC1
 
 2026-05-29

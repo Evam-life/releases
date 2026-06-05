@@ -3,6 +3,15 @@
 `````{warning}
 You are viewing the Alpha releases of the Chat Certified App.
 `````
+
+## 2.0.11
+
+2026-06-05
+
+### Highlights
+
+* **Fixed a chat issue where messages could stop appearing:** There was a problem that sometimes made chat messages not show up after starting a case and sending messages. Now, the chat will keep working as expected without needing to refresh the app
+
 ## 2.0.10
 
 2026-05-07
