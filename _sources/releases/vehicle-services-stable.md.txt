@@ -14,6 +14,15 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 7.0.16
+
+2026-06-09
+
+### Highlights
+
+* **Improved memory usage in Vehicle Services:** Memory usage in Vehicle Services has been optimized to reduce slowdowns and improve overall stability, particularly for Rakel users.
+
+
 ## 7.0.15
 
 2026-06-02

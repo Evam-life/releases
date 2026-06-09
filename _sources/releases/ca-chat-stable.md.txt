@@ -14,6 +14,14 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 2.0.11
+
+2026-06-09
+
+### Highlights
+
+* **Fixed an issue where chat messages could stop appearing:** Resolved an issue that could cause chat messages not to appear after creating a case and sending messages. Chat messages now continue to display correctly without requiring an app refresh.
+
 ## 2.0.10
 
 2026-05-11
