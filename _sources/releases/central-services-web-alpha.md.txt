@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 4.5.0 RC1
+
+2026-06-12
+
+### Highlights
+
+* **Resolved an issue with message permissions:** Users without the proper permissions will no longer see the stop message button, preventing unauthorized message sending and improving user experience
+
 ## 4.3.0 RC1
 
 2026-05-29

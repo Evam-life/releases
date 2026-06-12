@@ -4,6 +4,16 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.0.17 RC1
+
+2026-06-12
+
+### Highlights
+
+* **Addressed possible app freezing and memory issues:** Fixed several problems that could cause the app to use too much memory and potentially freeze or stop responding if left running for a long time. These improvements make the app more reliable, especially during overnight use
+* **Improved map stability when showing many vehicles:** Fixed an issue where showing a large number of vehicles on the map could make the app use more memory than it should, leading to potential crashes. Map performance and stability have been improved
+
+
 ## 7.0.16 RC1
 
 2026-06-05

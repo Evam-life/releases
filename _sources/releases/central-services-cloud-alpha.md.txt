@@ -4,6 +4,18 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 4.5.0 RC1
+
+2026-06-12
+
+### Highlights
+
+* **Resolved an issue with message permissions:** Users without the proper permissions will no longer see the stop message button, preventing unauthorized message sending and improving user experience
+
+### Additional changes
+
+* **Fixed a bug affecting system alerts:** Adjustments were made so that health monitoring now works reliably and false alarms about system downtime are avoided. This ensures uptime notifications are accurate
+
 ## 4.4.0 RC1
 
 2026-06-05
