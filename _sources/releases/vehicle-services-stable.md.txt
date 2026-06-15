@@ -14,6 +14,18 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 7.0.17
+
+2026-06-15
+
+### Highlights
+
+* **Improved map stability when showing many vehicles:** Fixed an issue where showing a large number of vehicles on the map could make the app use more memory than it should, leading to potential crashes.
+
+### Additional changes
+
+* **Addressed app freezing and memory-related issues** Fixed several issues that could cause excessive memory usage and lead to the app becoming unresponsive during extended periods of use.
+
 ## 7.0.16
 
 2026-06-09
