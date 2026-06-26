@@ -11,6 +11,7 @@ You are viewing the Alpha releases of the COMS Certified App.
 
 ### Highlights
 
+* **Improved intercom for both tablets in the ambulance:** The mute button for intercom is now synchronized between the driver and patient areas, so muting in one place mutes everywhere, making communication smoother and more reliable.
 * **Increased responsiveness:** The main tab selection buttons are now easier to press, providing a smoother
   user experience (especially while on the go).
 * **Page selection behaviour:** Upon opening the application the app will now default to the favourites page when not in
