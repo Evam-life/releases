@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.0.18 RC1
+
+2026-06-26
+
+### Highlights
+
+* **Fixed app crash when accepting a new case:** Addressed an issue that could cause the app to unexpectedly close when a new operation was received on certain Samsung Android devices. This ensures smoother and more reliable use for the team
+
 ## 7.0.17 RC1
 
 2026-06-12

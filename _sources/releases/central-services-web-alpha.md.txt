@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 4.6.0 RC1
+
+2026-06-26
+
+### Highlights
+
+* **Users can now see all assigned resources for each incident:** The list displays callsigns and shows whether each resource is mobilised or demobilised, sorted for quick identification and color-coded for clarity
+
 ## 4.5.0 RC1
 
 2026-06-12

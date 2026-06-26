@@ -4,6 +4,29 @@
 You are viewing the Alpha releases of the COMS Certified App.
 `````
 
+
+## 1.7.0
+
+2026-06-26
+
+### Highlights
+
+* **Increased responsiveness:** The main tab selection buttons are now easier to press, providing a smoother
+  user experience (especially while on the go).
+* **Page selection behaviour:** Upon opening the application the app will now default to the favourites page when not in
+  a call, or the keypad page when in an active phone or radio call.
+* **Easier audio switching:** It is now easier to switch between speaker and headphones during a call. Plugging in
+  headphones will automatically route call audio to them.
+
+### Additional changes
+
+* **Performance improvements:** Reduced the size of the app by half, resulting in far better overall
+  performance.
+* **Call notification stability:** Incoming call alerts are now more stable, preventing missed or flickering
+  notifications when moving between pages or while the app is in the background.
+* **Clearer phone number formatting:** Phone numbers now appear in a clearer, more readable format.
+* **Additional translations:** Added missing translations to improve clarity.
+
 ## 1.5.1
 
 2026-03-09
