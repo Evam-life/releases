@@ -4,6 +4,18 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 4.6.0 RC2
+
+2026-07-03
+
+### Highlights
+
+* **Fixed an issue where accept/dismiss buttons disappeared after demobilizing recipients:** Now, when one recipient is demobilized from a case, the accept/dismiss buttons remain visible for other active users as expected
+
+### Additional changes
+
+* **Improved CS cloud stability:** The system now better manages its memory, reducing the risk of slowdowns or interruptions in service
+
 ## 4.6.0 RC1
 
 2026-06-26
