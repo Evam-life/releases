@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the COMS Configuration Tool.
 `````
 
+## 1.2.0
+
+2026-07-02
+
+### Highlights
+
+* **Added a Bell button to the favourites page:** You can now add a Bell button to the favourites page. When pressed, it rings a bell to get the attention of other users. Add one by selecting **Bell** as the action type when configuring a favourites button, and choose its button colour like any other button.
+
 ## 1.1.5
 
 2025-05-20

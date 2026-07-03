@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the Info Certified App.
 `````
 
+## 1.0.9
+
+2026-07-03
+
+### Highlights
+
+* **Fixed a crash when loading large PDF files:** Previously, loading big PDF documents in the info app on Vehicle Services could cause the whole system to crash. Now, larger PDFs load successfully without causing any problems.
+
 ## 1.0.8
 
 2026-02-16

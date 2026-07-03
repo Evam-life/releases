@@ -4,6 +4,13 @@
 You are viewing the Alpha releases of the COMS Certified App.
 `````
 
+## 1.8.0
+
+2026-07-02
+
+### Highlights
+
+* **Bell functionality added:** We have added support for a bell button in the COMS favourites page, this allows you to notify the other device in the vehicle with a sound over the device speaker and get their attention.
 
 ## 1.7.0
 
