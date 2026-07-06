@@ -14,6 +14,20 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 2.5.0
+
+2026-07-06
+
+### Highlights
+
+* **Users can now see all assigned resources for each incident:** The list displays callsigns and shows whether each resource is mobilised or demobilised, sorted for quick identification and color-coded for clarity
+* **Added the ability for users to select their own incident notification sounds in CS mobile:** Users can now choose different alert tones for new incidents through the settings menu, making notifications more customizable and user-friendly
+* **Fixed an issue where accept/dismiss buttons disappeared after demobilizing recipients:** Now, when one recipient is demobilized from a case, the accept/dismiss buttons remain visible for other active users as expected
+
+### Additional changes
+
+* **Fixed a crash when loading large PDF files:** Previously, loading large PDF documents in the info app on Vehicle Services could cause system instability. We have now optimized the PDF viewer in the app to be more efficient, so this should no longer happen
+
 ## 2.4.0
 
 2026-06-15

@@ -14,6 +14,19 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 4.6.0
+
+2026-07-06
+
+### Highlights
+
+* **Users can now see all assigned resources for each incident:** The list displays callsigns and shows whether each resource is mobilised or demobilised, sorted for quick identification and color-coded for clarity
+* **Fixed an issue where accept/dismiss buttons disappeared after demobilizing recipients:** Now, when one recipient is demobilized from a case, the accept/dismiss buttons remain visible for other active users as expected
+
+### Additional changes
+
+* **Improved CS cloud stability:** The system now better manages its memory, reducing the risk of slowdowns or interruptions in service
+
 ## 4.5.0
 
 2026-06-15
