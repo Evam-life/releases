@@ -4,6 +4,18 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 4.7.0 RC1
+
+2026-07-10
+
+### Highlights
+
+* **Fixed an issue where images with capitalized file extensions (like .PNG) could not be viewed:** Now, image files with capitalized extensions appear correctly instead of being shown as generic files.
+
+### Additional changes
+
+* **PDF orientation buttons had the wrong text:** Now, the PDF orientation buttons display the correct description for each action, making it clearer for users.
+
 ## 4.6.0 RC2
 
 2026-07-03

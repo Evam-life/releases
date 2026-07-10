@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the Info Certified App.
 `````
 
+## 1.0.10
+
+2026-07-10
+
+### Highlights
+
+* **Fixed an issue where images with capitalized file extensions (like .PNG) could not be viewed:** Now, image files with capitalized extensions appear correctly instead of being shown as generic files.
+
 ## 1.0.9
 
 2026-07-03

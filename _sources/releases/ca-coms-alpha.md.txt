@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the COMS Certified App.
 `````
 
+## 1.8.1
+
+2026-07-10
+
+### Highlights
+
+* **Bell ring audio when using intercom is now louder:** Previously, the bell ring sound was too quiet if the intercom was on. This issue has been resolved, making it easier to notice the bell ring.
+
 ## 1.8.0
 
 2026-07-02

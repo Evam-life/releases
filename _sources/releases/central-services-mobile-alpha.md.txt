@@ -4,6 +4,15 @@
 You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 `````
 
+## 2.6.0 RC1
+
+2026-07-10
+
+### Highlights
+
+* **Fixed an issue where images with capitalized file extensions (like .PNG) could not be viewed:** Now, image files with capitalized extensions appear correctly instead of being shown as generic files.
+* **Location sharing on iOS:** Implemented continuous location sharing to the CAD (as AVL data) based on current user status. This feature was previously only available on the Android version of Central Services, it is now available on iOS too.
+
 ## 2.5.0 RC2
 
 2026-07-03

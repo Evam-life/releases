@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.2.0 RC1
+
+2026-07-10
+
+### Highlights
+
+* **Vehicle Services actions can now be automated:** The system can now automatically trigger actions such as opening doors or controlling traffic lights, depending on operational circumstances like location, movement, and priority—making daily routines easier and safer for users. This is a major new feature that we hope will help further reduce cognitive load for our users and automate repetitive actions. Please reach out to our support if you want to enable this feature.
+
 ## 7.0.18 RC1
 
 2026-06-26
