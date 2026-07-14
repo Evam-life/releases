@@ -14,6 +14,18 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 4.7.0
+
+2026-07-14
+
+### Highlights
+
+* **Fixed an issue where images with capitalized file extensions (such as .PNG) could not be viewed:** Images with capitalized file extensions now display correctly instead of appearing as generic files.
+
+### Additional changes
+
+* **Corrected PDF orientation button labels:** The PDF orientation buttons now display the correct labels, making it easier to choose the intended action for the user.
+
 ## 4.6.0
 
 2026-07-06

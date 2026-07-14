@@ -13,6 +13,28 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
+
+## 1.8.1
+
+2026-07-14
+
+### Highlights
+
+* **Improved intercom for dual-tablet setups:** The intercom mute button is now synchronized between both tablets, so muting it on one device also mutes it on the other, removing the need to manage intercom settings on each tablet separately.
+* **Increased responsiveness:** The main tab buttons are now easier to press, providing a smoother experience, especially while on the go.
+* **Page selection behaviour:** When opening the app, it now defaults to the Favourites page when no call is active, or the Keypad page if you're on an active phone or radio call.
+* **Easier audio switching:** It is now easier to switch between speaker and headphones during a call. Plugging in
+  headphones will automatically route call audio to them.
+* **Bell functionality added:** We have added support for a bell button in the COMS favourites page, this allows you to notify the other device in the vehicle with a sound over the device speaker to get their attention.
+
+### Additional changes
+
+* **Performance improvements:** Reduced the size of the app by half, resulting in far better overall
+  performance.
+* **Improved call notification stability:** Incoming call notifications are now more stable, preventing missed or flickering notifications when moving between pages or while the app is in the background.
+* **Clearer phone number formatting:** Phone numbers now appear in a clearer, more readable format.
+* **Additional translations:** Added missing translations to improve clarity.
+
 ## 1.5.1
 
 2026-03-16

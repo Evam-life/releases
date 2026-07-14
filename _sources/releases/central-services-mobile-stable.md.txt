@@ -14,6 +14,16 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 2.6.0
+
+2026-07-14
+
+### Highlights
+
+* **Fixed an issue where images with capitalized file extensions (such as .PNG) could not be viewed:** Images with capitalized file extensions now display correctly instead of appearing as generic files.
+* **Increased the quality of pictures added to risk information:** The pictures added from the phone camera into a risk information will now have a significantly better quality.
+* **Location sharing on iOS:** Implemented continuous location sharing to the CAD (as AVL data) based on current user status. This feature was previously only available on the Android version of Central Services, it is now available on iOS too.
+
 ## 2.5.0
 
 2026-07-06
