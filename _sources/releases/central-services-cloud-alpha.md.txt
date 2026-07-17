@@ -4,6 +4,19 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 4.8.0 RC1
+
+2026-07-17
+
+### Highlights
+
+* **Expanded support for handling GD92 messages tied to incidents:** The system can now process a wider range of GD92 fire message formats, improving flexibility and making it easier for more users to manage incident information. This update vastly enhances the existing possibilities with GD92 Type 11 messages, allowing for richer data displays in Vehicle Services and Central Services when CADs support it.
+* **Improved speed when loading case lists for admin users:** Admin users in the Cases app now experience faster performance when checking large lists of cases, helping them access incident information more quickly from Central Services Mobile and Web.
+
+### Additional changes
+
+* **Fixed delays in health monitoring alerts:** Reliability of health monitoring alerts has been improved, so notifications of possible issues arrive more quickly and accurately, improving our responses to potential incidents.
+
 ## 4.7.0 RC1
 
 2026-07-10

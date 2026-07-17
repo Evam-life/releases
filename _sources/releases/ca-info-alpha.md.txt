@@ -4,6 +4,15 @@
 You are viewing the Alpha releases of the Info Certified App.
 `````
 
+## 1.0.11
+
+2026-07-17
+
+### Highlights
+
+* **Optimised image handling:** The app now manages info cards with many pictures more smoothly, and images load faster, especially when you are offline.
+* **Improved offline access:** PDF files included in recommended info cards are now available offline.
+
 ## 1.0.10
 
 2026-07-10
