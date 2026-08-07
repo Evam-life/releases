@@ -4,6 +4,15 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 5.0.0 RC1
+
+2026-08-07
+
+### Highlights
+
+* **Improved the robustness and scalability of Central Services cloud:** The application architecture has been reworked to offer better stability guarantees as well as improved scalability,.
+
+
 ## 4.8.0 RC1
 
 2026-07-17
