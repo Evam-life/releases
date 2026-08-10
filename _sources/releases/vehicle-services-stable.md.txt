@@ -14,6 +14,19 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 7.2.0
+
+2026-08-10
+
+### Highlights
+
+* **Vehicle Services actions can now be automated:** Previously manual actions, such as opening doors or controlling traffic lights, can now be triggered automatically based on operational conditions such as location, movement, and priority. This helps reduce repetitive tasks and cognitive load for responders. Contact Support to learn more or enable this feature.
+
+### Additional changes
+
+* **Improved location search:** You can now search using both positive and negative latitude and longitude coordinates, and Vehicle Services now accepts comma-separated values. For example, you can enter "59.2356, -17.7483" to find a location.
+
+
 ## 7.0.18
 
 2026-07-06
