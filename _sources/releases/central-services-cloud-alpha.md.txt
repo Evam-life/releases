@@ -4,6 +4,15 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 5.0.0 RC2
+
+2026-08-14
+
+### Highlights
+
+* **Improved the map experience with overlays and easier controls:** The map app now allows users to add overlays, track units, manage custom map layers, and benefit from more user-friendly buttons.
+* **Fixed an issue where deleted users' callsigns remained unavailable:** Now, when a user is deleted, their callsign is freed and can be reused by others.
+
 ## 5.0.0 RC1
 
 2026-08-07
