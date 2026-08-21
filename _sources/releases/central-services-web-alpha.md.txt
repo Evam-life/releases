@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 5.0.0 RC3
+
+2026-08-21
+
+### Highlights
+
+* **Improved map reliability:** Fixed issues where some map layers could fail to display properly and vehicle icons could appear duplicated while moving in Central Services web and mobile.
+
 ## 5.0.0 RC2
 
 2026-08-14

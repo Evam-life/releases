@@ -3,6 +3,13 @@
 `````{warning}
 You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 `````
+## 2.7.0 RC2
+
+2026-08-21
+
+### Highlights
+
+* **Improved map reliability:** Fixed issues where some map layers could fail to display properly and vehicle icons could appear duplicated while moving in Central Services web and mobile.
 
 ## 2.7.0 RC1
 
