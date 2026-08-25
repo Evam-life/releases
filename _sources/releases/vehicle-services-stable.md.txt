@@ -14,6 +14,20 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 7.2.1
+
+2026-08-25
+
+### Highlights
+
+* **Preparation for improved map visuals:** We’ve completed background work that enables an upcoming update with a refreshed map style and functionality in the Navigation application. You won’t see a change in this release, but it sets the foundation for future improvements.
+
+* **Automatically refreshes the Central Services cloud connection when device certificates change:** Previously, the connection to Central Services Cloud could drop after a device certificate update and would remain disconnected until Vehicle Services was updated/restarted. Vehicle Services now detects certificate changes while running and refreshes the connection automatically, avoiding unnecessary downtime.
+
+### Additional changes
+
+* **Improved connection reliability to TETRA devices:** We resolved an uncommon issue that could cause the connection to a TETRA device to repeatedly disconnect and reconnect. With this fix, the connection should remain stable as long as the cable and physical connection are secure.
+
 ## 7.2.0
 
 2026-08-10
