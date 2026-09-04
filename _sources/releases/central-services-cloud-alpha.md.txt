@@ -4,6 +4,15 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 5.0.0 RC4
+
+2026-09-04
+
+### Highlights
+
+* **Improved privacy for map positions:** Only vehicles can now publish their position on the organisation map. This change prevents personal user locations from being unintentionally shared on the map.
+* **Security update:** Updates made for improved security and stability.
+
 ## 5.0.0 RC2
 
 2026-08-14

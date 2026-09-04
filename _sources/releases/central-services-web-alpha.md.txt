@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 5.0.0 RC4
+
+2026-09-04
+
+### Highlights
+
+* **Stop button hidden for incidents you are not assigned to:** The stop button no longer appears in the incident view or chat for incidents you are not responsible for. This prevents accidentally stopping someone else's incident.
+
 ## 5.0.0 RC3
 
 2026-08-21

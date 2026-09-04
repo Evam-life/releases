@@ -3,6 +3,23 @@
 `````{warning}
 You are viewing the Alpha releases of Vehicle Services.
 `````
+
+## 7.3.0 RC1
+
+2026-09-04
+
+### Highlights
+
+* **Units in Map and Units Tab now work correctly with TNA:** The logic for displaying unit information on the map and in the Units Tab has been updated. When TNA is in use, the unit information is now correctly resolved based on the logged-in state of the vehicle, ensuring accurate data is shown. When TNA is not used, the Unit ID is displayed as before.
+
+* **All apps are now accessible even when they don't fit in the bottom bar:** When a device is in vertical orientation or has many apps configured, an "Apps" button now appears in the bottom bar, allowing access to all apps through an expandable container. Notifications and the notification center have also been moved to the right side of the screen for improved layout.
+
+* **Fixed a bug where the receiver could repeatedly fail to reconnect:** A bug was present where the receiver could enter a state of endlessly failing to reconnect to the main device after a restart, requiring a full device restart to recover. The connection retry logic has been improved with proper safeguards to prevent this loop and allow automatic recovery.
+
+* **Fixed a bug where map info pop-ups could be hidden behind other map elements:** Info windows and pop-ups tied to map layers (such as those from the Incident Command app or the navigation indicator) could sometimes appear behind other icons on the map, making them unreadable. These pop-ups now always display on top of all other map elements.
+
+* **Fixed a bug where the map would visibly jump while driving:** Customers reported that the map would stutter or "jump" roughly once per second while driving, even though the vehicle location indicator moved smoothly. This was caused by a timing mismatch in the map animation. The map now moves smoothly and stays in sync with the location indicator at all times.
+
 ## 7.2.1 RC1
 
 2026-08-18
