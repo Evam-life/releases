@@ -14,6 +14,25 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 2.7.0
+
+**Release date:** 2026-09-09
+
+### Highlights
+
+* **Launching support for any map layer in Central Services**
+
+  You can now easily use the same map layers you already have in Vehicle Services directly in Central Services—such as hydrants, road closures, live vehicle/resource positions, and more. These layers are available in both the Map view and the Incident view, making it easier to get the full operational picture in one place. We’ve also added address search to help you find locations faster.
+
+### Additional changes
+
+* **Callsigns are available again after a user is removed**
+
+  Previously, a callsign could remain unavailable after deleting a user. Now, when a user is deleted, their callsign is freed up and can be reassigned.
+* **Stop button hidden for viewers who aren’t part of the incident**
+
+  Admins and other users who can view an incident but aren’t assigned to it will no longer see the Stop button in the incident view or chat.
+
 ## 2.6.0
 
 2026-07-14
