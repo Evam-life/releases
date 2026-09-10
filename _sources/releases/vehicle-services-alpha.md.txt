@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.3.0 RC2
+
+2026-09-10
+
+### Highlights
+
+* **Fixed a bug where automated actions would re-trigger unexpectedly:** Automated actions could be incorrectly triggered again after a settings refresh. Additionally, new automations no longer trigger instantly when received if conditions are already met — conditions must first fail before a new automation can activate.
+
 ## 7.3.0 RC1
 
 2026-09-04
