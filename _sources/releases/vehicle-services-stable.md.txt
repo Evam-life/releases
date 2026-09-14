@@ -13,6 +13,27 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
+## 7.3.0
+
+**Release date:** 2026-09-14
+
+### Highlights
+
+* **Resource Map Layer and Ops Units now show the right resource identity when using TNA**\
+  We’ve corrected how resources are shown when TNA is in use—both in the **Resource** map layers and in the **Ops** app **Units** tab—so the displayed resource details match the vehicle’s current logged-in state. When TNA isn’t used, the display works as before.
+* **Improved bottom bar: fits more apps, configurable order, and better‑located notifications**\
+  We’ve updated the bottom bar to fit more apps and let you configure the order they appear in by reaching out to our support. When space is limited—such as in portrait mode or with many apps enabled—an **Apps** button appears so you can open the full app list. Notifications and the notification center have also been moved to the **right side** of the screen to reduce the chance of blocking the map in critical moments, for example when arriving at a destination.
+
+### Additional improvements
+
+* **Smoother map animations while driving**\
+  The map movements are now even smoother and stays in sync with the vehicle position indicator for a more consistent experience.
+* **More reliable multi-screen reconnection after restart**\
+  Improved reconnection handling ensures multi-screen setups always reconnect automatically after a restart.
+* **Map pop-ups always appear on top**\
+  Information pop-ups from map layers (for example Incident Command) are now always shown above other map elements.
+* **Automations no longer re-run unexpectedly**\
+  Automated actions won’t re-trigger after a settings refresh. Newly received automations also won’t fire immediately if their conditions are already met—they activate only after conditions change and become true again.
 
 ## 7.2.1
 
