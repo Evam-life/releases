@@ -3,6 +3,15 @@
 `````{warning}
 You are viewing the Alpha releases of Central Services Web.
 `````
+## 5.1.0 RC1
+
+2026-09-17
+
+### Highlights
+
+* **Single Sign-On via Microsoft Entra ID:** Organizations can now log in to Central Services using their existing Microsoft accounts. Administrators can map directory groups to app access and roles from the Admin app.
+* **Info Cards can now be shared between organizations:** Organizations can be configured to view each other's Info cards while only editing their own. Shared Info cards are included in recommended risk information.
+* **Closures can now be shared between organizations:** Organizations can be configured to view each other's road closures. Shared closures are also taken into account when calculating navigation routes.
 
 ## 5.0.0 RC4
 

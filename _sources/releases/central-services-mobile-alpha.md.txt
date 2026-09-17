@@ -3,6 +3,19 @@
 `````{warning}
 You are viewing the Alpha releases of Central Services Mobile (Android and iOS).
 `````
+## 2.8.0 RC1
+
+2026-09-17
+
+### Highlights
+
+* **Single Sign-On via Microsoft Entra ID:** Organizations can now log in to Central Services using their existing Microsoft accounts. Administrators can map directory groups to app access and roles from the Admin app.
+* **Info Cards can now be shared between organizations:** Organizations can be configured to view each other's Info cards while only editing their own. Shared Info cards are included in recommended risk information.
+* **Closures can now be shared between organizations:** Organizations can be configured to view each other's road closures. Shared closures are also taken into account when calculating navigation routes.
+* **Fixed status updates briefly showing as failed on slower connections:** The mobile app timeout for status updates has been increased, preventing false failure messages on higher-latency connections.
+* **Warning banner when background location sharing is not enabled:** The mobile app now shows a warning if background location permission has not been granted, so users know their position will not be shared when the app is in the background.
+* **"No status" label hidden when the Status app is not available:** Users without access to the Status app no longer see a misleading "No status" label in the top bar.
+
 ## 2.7.0 RC3
 
 2026-09-04
