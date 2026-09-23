@@ -4,6 +4,18 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.4.0 RC1
+
+2026-09-23
+
+### Highlights
+
+* **Added text highlighting for updated incident information in the Operations app:** When new information is received from dispatch, updated text is now visually highlighted, making it easy to distinguish new details from previous ones. Replaced or removed text is shown with a strikethrough style. The highlight remains visible until the next update arrives or the app is relaunched. Priority changes are indicated with a dedicated "Updated priority" badge. This feature applies to all fields in the Info and Units tabs.
+
+### Additional changes
+
+* **Fixed a bug where offline map download could appear paused while actually downloading:** When connected to Wi-Fi, the offline map download notification could incorrectly show "paused" even though the download was running in the background. The notification now correctly reflects the actual download status.
+
 ## 7.3.0 RC2
 
 2026-09-10
