@@ -13,9 +13,23 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
+## 7.4.0
+
+2026-09-29
+
+### Highlights
+
+* **Clear highlighting of new and changed incident details in Operations**\
+  For TETRA users, when new information arrives from dispatch, updated text is now highlighted so it's easy to spot what changed. Removed or replaced text is shown with strikethrough. Changes to priority are marked with an updated priority badge. This applies to all fields in the Turnout and Units tabs. The highlight remains until the next update arrives or the app is restarted.
+
+### Additional improvements
+
+* **Offline map download status now displays correctly**\
+  The offline map download notification no longer shows paused while a download is still running in the background on Wi‑Fi.
+
 ## 7.3.0
 
-**Release date:** 2026-09-14
+2026-09-14
 
 ### Highlights
 

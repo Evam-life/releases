@@ -40,7 +40,7 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 
 ## 2.7.0
 
-**Release date:** 2026-09-09
+2026-09-09
 
 ### Highlights
 
