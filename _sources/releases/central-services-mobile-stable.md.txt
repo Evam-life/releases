@@ -14,6 +14,30 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 2.8.0
+
+2026-09-29
+
+### Highlights
+
+* **Single Sign-On with Microsoft Entra ID + Group Sync**  
+  Central Services can now use your existing Microsoft Entra ID accounts for sign-in. SSO is configured and enabled from the **Admin** app. Central Services also supports **Group Sync** to automate user and group provisioning. Admins can map directory groups to app access and roles directly in the **Admin** app.
+
+* **Share Info Cards across organizations**  
+  Organizations can be configured to view each other’s Info Cards while still only being able to edit their own. Shared Info Cards are also included in recommended information.
+
+* **Share road closures across organizations**  
+  Organizations can be configured to view each other’s road closures. Shared closures are also considered when calculating navigation routes.
+
+### Additional changes
+
+* **Fixed status updates briefly showing as failed on slower connections:** The mobile app timeout for status updates has been increased, preventing false failure messages on higher-latency connections.
+
+* **Warning banner when background location sharing is not enabled:** The mobile app now shows a warning if background location permission has not been granted, so users know their position will not be shared when the app is in the background.
+
+* **"No status" label hidden when the Status app is not available:** Users without access to the Status app no longer see a misleading "No status" label in the top bar.
+
+
 ## 2.7.0
 
 **Release date:** 2026-09-09
