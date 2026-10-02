@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.5.0 RC1
+
+2026-10-02
+
+### Highlights
+
+* **Search for a resource and navigate to its position:** Users can now search for a colleague's vehicle by callsign or unit ID and navigate to its most recent known location. Results are ordered by distance and show when the position was last updated. This feature is enabled by default but can be disabled per organisation.
+
 ## 7.4.0 RC1
 
 2026-09-23

@@ -3,6 +3,16 @@
 `````{warning}
 You are viewing the Alpha releases of Central Services Cloud.
 `````
+
+## 5.2.0 RC1
+
+2026-10-02
+
+### Highlights
+
+* **Support for multiple organisations within one dispatch system:** Multiple organisations (e.g. fire, ambulance, police) can now share the same dispatch system while controlling what data is shared between them. Incident-related data is shared per incident, static data such as closures and information pages can be shared separately, and units can be shared across organisations for coordinated operations.
+* **Improved login security:** Strengthened the authentication flow to better protect user sessions against potential misuse. Existing users are not affected and do not need to log in again.
+
 ## 5.1.0 RC2
 
 2026-09-23
