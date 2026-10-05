@@ -14,6 +14,15 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 5.2.0
+
+2026-10-05
+
+### Highlights
+
+* **Data sharing between organisations:** Organisations such as fire, ambulance and police can now share data with each other while controlling exactly what is shared. Road closures and data in the Info app can be shared regardless of dispatch type. With IP-based dispatch via Central Services Cloud, organisations can also share the same dispatch system, with incident data shared per incident. Resources can then be shared both on the map and in the Resources tab in the Operations App. Sharing is turned off by default and can be activated by contacting Evam Support.
+* **Improved login security:** We have strengthened the login process to better protect user sessions against potential misuse. Users who are already logged in are not affected and do not need to log in again.
+
 ## 5.1.0
 
 2026-09-29
