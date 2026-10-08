@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.5.0 RC2 
+
+2026-10-08
+
+### Highlights
+
+* **Fixed a bug where duplicate units appeared in search results:** When a unit was assigned to a case, searching for that unit could display it twice in the results. This has been corrected so that each unit now appears only once in search results.
+
 ## 7.5.0 RC1
 
 2026-10-02
