@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Web.
 `````
 
+## 5.2.1 RC1
+
+2026-10-08
+
+### Highlights
+
+* **Fixed certificate popup on desktop login:** Users at certain customer sites were prompted to select a certificate on every new browser session. This no longer happens.
+
 ## 5.2.0 RC1
 
 2026-10-02

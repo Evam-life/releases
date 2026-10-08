@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 5.2.1 RC1
+
+2026-10-08
+
+### Highlights
+
+* **Fixed an issue with offline map download for Vehicle Services:** A server-side issue could prevent new installations of Vehicle Services from downloading offline maps, this is now resolved.
+
 ## 5.2.0 RC1
 
 2026-10-02
