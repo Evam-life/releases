@@ -13,6 +13,15 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
+
+## 7.5.0
+
+2026-10-12
+
+### Highlights
+* **Search for a resource and navigate to it:**\
+ Type a call-sign or unit ID in the navigation address search and get directions to that vehicle's last known position. The closest resources come first, each showing when its position was last updated, so you know how fresh it is. The feature is on by default. Organisations can turn it off.
+
 ## 7.4.0
 
 2026-09-29

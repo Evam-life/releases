@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the COMS Certified App.
 `````
 
+## 1.8.2
+
+2026-10-12
+
+### Highlights
+
+* **COMS opens on favourites or keypad:** On some newer versions of Vehicle Services, COMS opened on the wrong page instead of favourites or the keypad. COMS now opens on the favourites or keypad page on all versions of Vehicle Services.
+
 ## 1.8.1
 
 2026-07-10
