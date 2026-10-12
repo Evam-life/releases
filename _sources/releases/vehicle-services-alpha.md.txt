@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.5.1 RC1 
+
+2026-10-12
+
+### Highlights
+
+* **Fixed a bug where intercom sound was coming through the speakers causing echo on Active5:** An issue was present where the intercom audio would play through the device speakers instead of the intended audio output, resulting in an echo effect during intercom use on Active5 devices. This has now been resolved.
+
 ## 7.5.0 RC2 
 
 2026-10-08
