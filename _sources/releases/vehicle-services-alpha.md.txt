@@ -4,6 +4,18 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.6.0 RC1
+
+2026-10-15
+
+### Highlights
+
+* **Find and navigate to colleagues from the address book:** A new "Resources" category is now available at the bottom of the address book in the Navigation app. It first lists the vehicles taking part in your ongoing incident, followed by all other vehicles in your organisation, in alphabetical order. Selecting a vehicle starts navigation to its position, just like selecting an address. The list updates automatically, for instance when a vehicle leaves your incident. This is useful when the destination received from dispatch is not quite right and a colleague has already found the correct location. Which vehicles are shown depends on your organisation's position sharing settings.
+
+### Additional changes
+
+* **Fixed a bug where spacing was missing above the "No active incident" message:** For organisations using Rakel, the "No active incident" message in the Turnout tab of the Operations app was displayed without the usual space above it. The spacing has now been restored.
+
 ## 7.5.1 RC1 
 
 2026-10-12
@@ -80,7 +92,7 @@ You are viewing the Alpha releases of Vehicle Services.
 
 ### Highlights
 
-* **Improved location search:** You can now search using both positive and negative latitude and longitude coordinates, and Vehicle Services now accepts comma-separated values. For example, you can enter 59.2356, -17.7483 to find a location.
+* **Improved location search:** You can now search using both positive and negative latitude and longitude coordinates, and Vehicle Services now accepts comma-separated values. For example, you can enter 59.2356, -17.7483 to find a location.
 
 ## 7.2.0 RC1
 
