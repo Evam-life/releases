@@ -14,6 +14,15 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
 
+## 7.6.0
+
+2026-10-19
+
+### Highlights
+
+* **Navigate to other vehicles from the address book in Navigation**\
+  When the destination from the control room is slightly off and a colleague has already found the right location, you can now navigate straight to their vehicle. A new Resources section at the bottom of the address book lists the vehicles on your incident first, followed by all other vehicles in your organisation in alphabetical order. Select a vehicle to start navigation to its position, just as you would with an address. The list updates automatically, for example when a vehicle leaves the incident. Which vehicles are shown depends on your organisation's position sharing settings. 
+
 ## 7.5.1
 
 2026-10-14
