@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.6.1 RC1
+
+2026-10-23
+
+### Highlights
+
+* **Vehicle Services is now available in US English:** Devices set to US English now show Vehicle Services with US spelling and US fire-service terms, for example "Incident" instead of "Operation", "Units" instead of "Resources", "Staging area" instead of "Breakpoint" and "Dispatch" for the Info tab of the Operations app. Navigation and offline search show distances in miles and feet, the Units tab shows positions as latitude and longitude with N/S/E/W, and vehicle height and width are entered in feet and inches during setup. Dates are shown month first, and times stay in 24-hour format. Units and position formats already set by your organisation still take precedence, and devices set to British English or Swedish are unchanged.
+
 ## 7.6.0 RC1
 
 2026-10-15

@@ -4,6 +4,17 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 5.3.0 RC1
+
+2026-10-23
+
+### Highlights
+
+* **US English language support:** Notifications and emails sent by Central Services can now be in US English for US deployments, using US spelling and the terms used by US fire services.
+* **US date and time in notifications and emails:** For US deployments, dates in notifications and emails are now shown month first (MM/DD/YYYY) on the 24-hour clock, in US Central Time instead of UTC. This also fixes a problem where dates around New Year could show the wrong year.
+* **Improved Central Services Cloud stability:** Fixed a problem where the server slowly used more and more memory over time, which could cause occasional interruptions in service.
+* **Fixed a bug where a unit could be shown twice on the incident map:** A vehicle from your own organisation that was also assigned to an incident could be drawn twice on the incident map in Central Services Web and Mobile, which could leave a stray icon behind. It is now fixed.
+
 ## 5.2.1 RC1
 
 2026-10-08
