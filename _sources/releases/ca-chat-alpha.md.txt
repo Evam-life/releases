@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the Chat Certified App.
 `````
 
+## 2.0.12
+
+2026-10-23
+
+### Highlights
+
+* **Added support for US English:** The Chat app now supports devices set to US English. Message dates are shown with the month first, for example 10/23/2026, and times always use the 24-hour clock. When relocating an incident with no known vehicle or destination position, the map now starts centred on the United States instead of the United Kingdom. British English and Swedish are unchanged.
+
 ## 2.0.11
 
 2026-06-05

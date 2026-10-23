@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the Info Certified App.
 `````
 
+## 1.0.12
+
+2026-10-23
+
+### Highlights
+
+* **Added support for US English:** The Info app now supports devices set to US English. Some labels use US terms: the search box suggests searching by "type of incident", the "UPRN" field is shown as "Alarm ID", and the notification for recommended info cards reads "Pre-plan available". Dates on recommended info cards are shown with the month first, and times use the 24-hour clock. British English and Swedish are unchanged.
+
 ## 1.0.11
 
 2026-07-17

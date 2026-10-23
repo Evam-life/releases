@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the Incident Command Certified App.
 `````
 
+## 1.1.6
+
+2026-10-23
+
+### Highlights
+
+* **Added support for US English, with imperial units by default:** The Command App now supports devices set to US English. If your organisation has not chosen a unit system, devices set to US English now show line and area measurements in imperial units. Before, metric units were always the default. A unit system set in your organisation's settings still takes priority.
+
 ## 1.1.5
 
 2025-08-15

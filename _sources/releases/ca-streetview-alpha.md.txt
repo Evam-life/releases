@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the Street View Certified App.
 `````
 
+## 1.0.5
+
+2026-10-23
+
+### Highlights
+
+* **Added support for US English:** The Street View app now supports devices set to US English.
+
 ## 1.0.4
 
 2024-02-20

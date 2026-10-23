@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of the Incident Command Configuration Tool.
 `````
 
+## 1.1.0
+
+2026-10-23
+
+### Highlights
+
+* **Imperial units by default for US English:** New configurations created on a computer set to US English now use imperial units by default. When imperial units are selected, the length of a custom unit is entered in feet.
+
 ## 1.0.0
 
 2025-06-04
