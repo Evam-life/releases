@@ -13,6 +13,18 @@ If you wish to stay updated on new releases for Evam products, you may subscribe
 
 <a href="https://cdn.forms-content-1.sg-form.com/0cc204f3-d06f-11f0-8ae8-2e52ca44d860">Subscribe</a>
 `````
+## 2.10.0
+
+2026-10-27
+
+### Highlights
+
+* **Added support for US English:** Central Services Mobile is now available in US English.
+
+### Additional changes
+
+* **Cleaner incident map:** In rare cases, a vehicle could appear twice on the incident map. Each vehicle is now shown only once.
+* **Clearer permission screens during setup:** The setup screens that ask for permissions are now easier to understand.
 
 ## 2.9.0
 
