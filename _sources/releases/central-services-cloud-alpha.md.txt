@@ -4,6 +4,19 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 5.3.1 RC1
+
+2026-10-29
+
+### Highlights
+
+* **Added support for an organisation to set default Central Services settings for their users:** Previously new Central Services users always started with incident and chat notifications disabled by default, and had to enable them in the settings. It is now possible to change the default for all settings in Central Services organisation-wide: notifications, alarm tone, favourite apps, etc. Please reach out to support@evam.life if you want to set these defaults. 
+
+### Additional changes
+
+* **Support for gate categories:** Organisations can now group their gates into categories, for the new gates menu in Vehicle Services 7.7.0.
+* **General security improvements:** Server components were updated with the latest security fixes.
+
 ## 5.3.0 RC1
 
 2026-10-23

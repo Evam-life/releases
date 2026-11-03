@@ -4,6 +4,20 @@
 You are viewing the Alpha releases of Vehicle Services.
 `````
 
+## 7.7.0 RC1
+
+2026-10-29
+
+### Highlights
+
+* **Gates moved to the bottom bar:** A new Gates button in the bottom bar replaces the gates menu in the Shortcut Center, so a nearby gate can be opened in at most two presses. Your home gate is listed first. Organisations can also show all their gates, grouped into categories. Please reach out to our support if you want to enable this.
+* **Clearer bottom bar:** All bottom bar buttons now have the same size and a text label, and Notifications is renamed "Alerts".
+
+### Additional changes
+
+* **Fixed a bug where the callsign was cut off in the Shortcut Center:** The full callsign is now shown.
+* **Fixed setup issues when rotating the screen:** The home gate list, the chosen home gate and the vehicle height and width are now kept when the screen is rotated.
+
 ## 7.6.1 RC1
 
 2026-10-23
