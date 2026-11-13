@@ -4,6 +4,14 @@
 You are viewing the Alpha releases of Central Services Cloud.
 `````
 
+## 5.3.2 RC1
+
+2026-11-13
+
+### Highlights
+
+* **General security improvements:** Server components were updated with the latest security fixes.
+
 ## 5.3.1 RC1
 
 2026-10-29
